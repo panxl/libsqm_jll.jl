@@ -1,0 +1,96 @@
+[[libsqm]]
+arch = "aarch64"
+git-tree-sha1 = "28a8207756d4def3a6ae02bb32a73d5544efed66"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[libsqm.download]]
+    sha256 = "ef4994d96c45bd4b3d6a32100659880f31f252bf141da2fda8c0bd23c13868f1"
+    url = "https://github.com/panxl/libsqm_jll.jl/releases/download/libsqm-v21.0.0+0/libsqm.v21.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[libsqm]]
+arch = "aarch64"
+git-tree-sha1 = "d1fd2a32b63bdad6b164f292ab5bb593e96f0e48"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[libsqm.download]]
+    sha256 = "0b1a056cec713405c3e9d5d00e2c3b103e1f5fc299b7ff5d398a2178d05c30f3"
+    url = "https://github.com/panxl/libsqm_jll.jl/releases/download/libsqm-v21.0.0+0/libsqm.v21.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[libsqm]]
+arch = "aarch64"
+git-tree-sha1 = "62d5266e5f151ea9557adadcacefa23fff18afde"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[libsqm.download]]
+    sha256 = "9dacdb0144e34855cc6faf28a27889f55df7b680525c1b7834adc1be877093c0"
+    url = "https://github.com/panxl/libsqm_jll.jl/releases/download/libsqm-v21.0.0+0/libsqm.v21.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[libsqm]]
+arch = "aarch64"
+git-tree-sha1 = "5503229550a5324e0fe63441ce3efad10c6927e5"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[libsqm.download]]
+    sha256 = "5ec12be7c053e0da4bc4cf0c78be0d29f1e2845f1878d7994002ad656f7351ac"
+    url = "https://github.com/panxl/libsqm_jll.jl/releases/download/libsqm-v21.0.0+0/libsqm.v21.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[libsqm]]
+arch = "x86_64"
+git-tree-sha1 = "29432cb41eb40464107e14ae894f985a7e76e241"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[libsqm.download]]
+    sha256 = "9c42c8851ac3b553c8c2bfff25af64ef837cb4221c87d5afd9acd4ade28256af"
+    url = "https://github.com/panxl/libsqm_jll.jl/releases/download/libsqm-v21.0.0+0/libsqm.v21.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[libsqm]]
+arch = "x86_64"
+git-tree-sha1 = "2ab0cf7fbd6b0182724e4210db3af86afb807458"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[libsqm.download]]
+    sha256 = "561962f1108cf0728efbba7f62d9d36b00cf019f4d7877f5d363fdd4aebdbf3d"
+    url = "https://github.com/panxl/libsqm_jll.jl/releases/download/libsqm-v21.0.0+0/libsqm.v21.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[libsqm]]
+arch = "x86_64"
+git-tree-sha1 = "9242f0cd976dae9b2f33653f9d6d386ffa40a292"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[libsqm.download]]
+    sha256 = "a92e122497242a1827628a85f85ae6697ecc0472cb4906a7263e5f6f9b8a4faa"
+    url = "https://github.com/panxl/libsqm_jll.jl/releases/download/libsqm-v21.0.0+0/libsqm.v21.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[libsqm]]
+arch = "x86_64"
+git-tree-sha1 = "026a661b2dc2f9197c1d39315a992be914129173"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[libsqm.download]]
+    sha256 = "65cc9d22ce3315c75145020b9f389185436d57cebf6e4544add927a010a021ef"
+    url = "https://github.com/panxl/libsqm_jll.jl/releases/download/libsqm-v21.0.0+0/libsqm.v21.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[libsqm]]
+arch = "x86_64"
+git-tree-sha1 = "c5e91c34ac88351b21074b7baee81d63a9ea8826"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[libsqm.download]]
+    sha256 = "9283599100bf510f59e3500c16a32665345baf35546b463bb0c88d1865d97570"
+    url = "https://github.com/panxl/libsqm_jll.jl/releases/download/libsqm-v21.0.0+0/libsqm.v21.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[libsqm]]
+arch = "x86_64"
+git-tree-sha1 = "4dfb6db6bc41b64829c6fe7bece5ad8e5d15e502"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[libsqm.download]]
+    sha256 = "6053578262e0107e3aa5759eca95339830445d113b1dacbc93cc0ada574f152e"
+    url = "https://github.com/panxl/libsqm_jll.jl/releases/download/libsqm-v21.0.0+0/libsqm.v21.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
